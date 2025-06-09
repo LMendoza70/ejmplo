@@ -8,5 +8,6 @@ namespace ejmplo
 {
     class Class1
     {
+        private int otro;
     }
 }
